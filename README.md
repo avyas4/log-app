@@ -1,6 +1,6 @@
 ### LOG APP
 
-This is the application to run your front-end using Vue3 and TypeScript and test cases using the vue3 recommended testing library and jest
+This is the application to run your front-end using latest version Vue 3 and TypeScript and test cases using the vue3 recommended testing library and jest
 
 
 ### Overview
@@ -11,7 +11,7 @@ This application calls the end point "http://localhost:8888/log" and displays th
 
 ### Prerequisite
 
-In order to run this application locally, it is required to run the `log-end-point-api` repo first to access data for your application and to start the local server on `http://localhost:8888/log`
+In order to run this application locally, it is required to run the `log-end-point-api` repo first to access data and start server at `http://localhost:8888/log`
 
 ### Getting Started
 
@@ -41,7 +41,7 @@ For additional information, node version `20.17.0` has been used to build this a
 See some more tasks that you can do to improve this application.
 
 - [ ] strict type checking and enabling the eslint rules
-- [ ] Add common styles into the global stylesheet.
-- [ ] Use of any third party plugin, for example, Loadsh, for array sorting and manipulation
+- [ ] Style optimzation
+- [ ] Use of third party plugin for array sorting and manipulation, for example, Loadsh
 - [ ] Add filter to display active urls instead of exact match active urls.
-- [ ] Other incremental improvements
+- [ ] Other code optimization and incremental improvements
